@@ -1,0 +1,16 @@
+Collecting pyTelegramBotAPI
+  Downloading pyTelegramBotAPI-4.14.0.tar.gz (243 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 243.1/243.1 kB 4.4 MB/s eta 0:00:00
+  Preparing metadata (setup.py) ... done
+Requirement already satisfied: requests in /usr/local/lib/python3.10/dist-packages (from pyTelegramBotAPI) (2.31.0)
+Requirement already satisfied: charset-normalizer<4,>=2 in /usr/local/lib/python3.10/dist-packages (from requests->pyTelegramBotAPI) (3.3.1)
+Requirement already satisfied: idna<4,>=2.5 in /usr/local/lib/python3.10/dist-packages (from requests->pyTelegramBotAPI) (3.4)
+Requirement already satisfied: urllib3<3,>=1.21.1 in /usr/local/lib/python3.10/dist-packages (from requests->pyTelegramBotAPI) (2.0.7)
+Requirement already satisfied: certifi>=2017.4.17 in /usr/local/lib/python3.10/dist-packages (from requests->pyTelegramBotAPI) (2023.7.22)
+Building wheels for collected packages: pyTelegramBotAPI
+  Building wheel for pyTelegramBotAPI (setup.py) ... done
+  Created wheel for pyTelegramBotAPI: filename=pyTelegramBotAPI-4.14.0-py3-none-any.whl size=215251 sha256=42433e5a6f58c4848e3e15934673e49fb8e3a6c339eb8d2dd3a0d2ee0f4d06de
+  Stored in directory: /root/.cache/pip/wheels/25/51/2d/24b40a366c85c37928d5aa36ddf257e5a79fad25e1ecd11b2c
+Successfully built pyTelegramBotAPI
+Installing collected packages: pyTelegramBotAPI
+Successfully installed pyTelegramBotAPI-4.14.0
